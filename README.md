@@ -4,7 +4,8 @@ I'm Federico and I help 𝗽𝗲𝗼𝗽𝗹𝗲 to carry out their projects and
 <p align="center">
   <kbd><img valign="top" src="https://github.com/Fedes365/Fedes365/blob/main/Wall.jpg"  width="90%" height="90%"></kbd>
 </p>
-
+<p align="center">
+<a href="https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting" title="video text"><img src="https://github.com/Fedes365/Microsoft-Lists-Templates/blob/main/Lists-Banner.svg" width="40%" height="40%"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/federicosapia/" title="video text"><img src="https://github.com/Fedes365/Microsoft-Lists-Templates/blob/main/LinkedIn-Banner.svg" width="40%" height="40%"></a></p>
 <!--
 **Fedes365/Fedes365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
