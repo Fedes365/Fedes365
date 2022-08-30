@@ -1,0 +1,41 @@
+<svg viewBox="0 0 222 50" width="222px" height="50px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs></defs>
+  <g transform="matrix(0.6, 0, 0, 0.6, 0.4, 0.4)">
+    <rect x="1.527" y="1" width="351.463" height="69.875" rx="34" style="fill: rgb(228, 246, 255); stroke: rgb(0, 42, 133); stroke-width: 2px; filter: drop-shadow(rgb(186, 186, 186) 8px 5px 4px);"></rect>
+    <circle style="fill: rgb(255, 255, 255); stroke: rgb(0, 42, 133); stroke-width: 2px;" cx="36" cy="36" r="35"></circle>
+    <text style="fill: rgb(0, 42, 133); font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; white-space: pre;" x="85.002" y="43.294">Customer Engagement</text>
+    <g transform="matrix(0.892857, 0, 0, 0.892857, 7.428572, 5.769095)">
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient" gradientUnits="userSpaceOnUse" x1="32" x2="32" y1="5" y2="16">
+        <stop offset="0" stop-color="#ff4d6c"></stop>
+        <stop offset="1" stop-color="#ff0825"></stop>
+      </linearGradient>
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient-2" gradientUnits="userSpaceOnUse" x1="32" x2="32" y1="10" y2="16">
+        <stop offset="0" stop-color="#cf1d37"></stop>
+        <stop offset="1" stop-color="#cf0018"></stop>
+      </linearGradient>
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient-3" gradientUnits="userSpaceOnUse" x1="32" x2="32" y1="25" y2="58">
+        <stop stop-opacity="1" stop-color="#96c8ff" offset="0"></stop>
+        <stop stop-opacity="1" stop-color="#270097" offset="1"></stop>
+      </linearGradient>
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient-4" y1="15" y2="27" xlink:href="#linear-gradient-3"></linearGradient>
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient-5" x1="32" x2="32" y1="15" y2="58" xlink:href="#linear-gradient"></linearGradient>
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient-6" gradientUnits="userSpaceOnUse" x1="4" x2="60" y1="31" y2="31">
+        <stop offset="0" stop-color="#000406"></stop>
+        <stop offset="1" stop-color="#001521"></stop>
+      </linearGradient>
+      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient-7" x1="31" x2="33" y1="36.5" y2="36.5" xlink:href="#linear-gradient-6"></linearGradient>
+      <g xmlns="http://www.w3.org/2000/svg" id="Layer_2" data-name="Layer 2">
+        <path d="m38 16h10c4 0 5-11-3-11-4.19 0-6.53 3.13-8 6h-10c-1.47-2.87-3.81-6-8-6-8 0-7 11-3 11z" fill="url(#linear-gradient)" data-original="url(#linear-gradient)"></path>
+        <path d="m36 16h-8l-1-5a13 13 0 0 1 10 0z" fill="url(#linear-gradient-2)" data-original="url(#linear-gradient-2)"></path>
+        <rect fill="url(#linear-gradient-3)" height="33" rx="1" width="50" x="7" y="25" data-original="url(#linear-gradient-3)"></rect>
+        <path d="m26 15h12.83v2h-12.83z" fill="#000000" data-original="#000000"></path>
+        <rect fill="url(#linear-gradient-4)" height="12" rx="1" width="56" x="4" y="15" data-original="url(#linear-gradient-4)"></rect>
+        <rect fill="url(#linear-gradient-5)" height="43" rx="1" width="14" x="25" y="15" data-original="url(#linear-gradient-5)"></rect>
+      </g>
+      <g xmlns="http://www.w3.org/2000/svg" id="Layer_3" data-name="Layer 3">
+        <path d="m59 15h-7.91a8.08 8.08 0 0 0 -.67-8.64 6.66 6.66 0 0 0 -5.42-2.36c-3.5 0-6.26 1.91-8.46 5.78a13.85 13.85 0 0 0 -9.08 0c-2.2-3.87-4.96-5.78-8.46-5.78a6.66 6.66 0 0 0 -5.42 2.36 8.09 8.09 0 0 0 -.67 8.64h-7.91a1 1 0 0 0 -1 1v10a1 1 0 0 0 1 1h2v30a1 1 0 0 0 1 1h48a1 1 0 0 0 1-1v-30h2a1 1 0 0 0 1-1v-10a1 1 0 0 0 -1-1zm-14-9a4.74 4.74 0 0 1 3.87 1.62c2.13 2.62 1 7.38-.87 7.38h-10.78l.78-3.65c1.84-3.64 4.09-5.35 7-5.35zm-9.15 5.64-.67 3.36h-6.36l-.67-3.36a11.81 11.81 0 0 1 7.7 0zm-20.72-4a4.74 4.74 0 0 1 3.87-1.64c2.91 0 5.16 1.71 7.05 5.35l.73 3.65h-10.78c-1.88 0-3-4.76-.87-7.38zm-9.13 9.36h19v8h-19zm3 10h16v29h-16zm18 29v-39h10v39zm28 0h-16v-29h16zm3-31h-19v-8h19z" fill="url(#linear-gradient-6)" data-original="url(#linear-gradient-6)"></path>
+        <path d="m31 20h2v33h-2z" fill="url(#linear-gradient-7)" data-original="url(#linear-gradient-7)"></path>
+      </g>
+    </g>
+  </g>
+</svg>
