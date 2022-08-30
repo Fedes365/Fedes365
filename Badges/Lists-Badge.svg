@@ -1,0 +1,46 @@
+<svg viewBox="0 0 180 50" width="180px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <g transform="matrix(0.6, 0, 0, 0.6, 0.4, 0.4)">
+    <rect x="1.527" y="1" width="281.247" height="69.875" rx="34" style="fill: rgb(228, 246, 255); stroke: rgb(0, 42, 133); stroke-width: 2px; filter: drop-shadow(rgb(186, 186, 186) 8px 5px 4px);"></rect>
+    <circle style="fill: rgb(255, 255, 255); stroke: rgb(0, 42, 133); stroke-width: 2px;" cx="36" cy="36" r="35"></circle>
+    <text style="fill: rgb(0, 42, 133); font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; white-space: pre;" x="85.002" y="43.294">Microsoft Lists</text>
+    <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="198.099" y1="1683.0726" x2="942.2344" y2="394.2607" gradientTransform="matrix(0.037389, 0, 0, -0.037389, -1328.296631, -1631.653198)">
+      <stop offset="0" stop-color="#5a62c3"></stop>
+      <stop offset="0.5" stop-color="#4d55bd"></stop>
+      <stop offset="1" stop-color="#3940ab"></stop>
+    </linearGradient>
+    <g transform="matrix(0.866667, 0, 0, 0.866667, -247.360275, 105.258881)">
+      <path fill="#FEE200" d="M 325.608 -87.272 L 350.608 -92.991 L 350.608 -103.511 C 350.608 -104.611 349.728 -105.491 348.628 -105.491 L 313.108 -105.491 L 300.608 -92.991 L 325.608 -87.272 Z"></path>
+      <polygon fill="url(#SVGID_1_)" points="313.108 -92.991 300.608 -92.991 300.608 -74.471 316.088 -80.871"></polygon>
+      <polygon fill="url(#SVGID_2_)" points="330.148 -77.151 313.108 -80.192 313.108 -92.991 350.608 -92.991 350.608 -80.351"></polygon>
+      <polygon fill="url(#SVGID_3_)" points="335.128 -65.612 310.368 -67.911 310.368 -80.492 350.608 -80.492 350.608 -67.991"></polygon>
+      <polygon fill="url(#SVGID_4_)" points="313.108 -80.492 300.608 -80.492 300.608 -63.832 313.108 -67.991"></polygon>
+      <polygon fill="url(#SVGID_5_)" points="350.608 -67.991 338.108 -55.492 313.108 -55.492 311.188 -62.032 313.108 -67.991"></polygon>
+      <path fill="url(#SVGID_6_)" d="M 300.608 -67.991 L 300.608 -58.252 C 300.608 -56.732 301.848 -55.511 303.368 -55.511 L 313.108 -55.511 L 313.108 -68.012 L 300.608 -68.012 L 300.608 -67.991 Z"></path>
+    </g>
+    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="38.7" y1="62.5" x2="38.7" y2="122.9034" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#DE4A01"></stop>
+      <stop offset="1" style="stop-color:#E15900"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="156.25" y1="118.6523" x2="156.25" y2="68.182" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#F08B09"></stop>
+      <stop offset="1" style="stop-color:#EB770A"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="149.4" y1="199.4" x2="149.4" y2="125" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#D73A00"></stop>
+      <stop offset="1" style="stop-color:#CD2901"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="31.25" y1="183.4025" x2="31.25" y2="128.5908" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#BE3106"></stop>
+      <stop offset="1" style="stop-color:#AD3007"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="151.45" y1="250" x2="151.45" y2="187.5" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#844980"></stop>
+      <stop offset="1" style="stop-color:#703F6C"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="31.25" y1="249.9" x2="31.25" y2="187.4" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#6F3C6D"></stop>
+      <stop offset="1" style="stop-color:#663764"></stop>
+    </linearGradient>
+  </g>
+</svg>
