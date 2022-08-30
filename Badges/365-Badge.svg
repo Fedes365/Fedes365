@@ -1,0 +1,53 @@
+<svg viewBox="0 0 162 50" width="162px" height="50px" xmlns="http://www.w3.org/2000/svg">
+  <defs></defs>
+  <g transform="matrix(0.6, 0, 0, 0.6, 0.4, 0.4)">
+    <rect x="1.527" y="1" width="250.85" height="69.875" rx="34" style="fill: rgb(228, 246, 255); stroke: rgb(0, 42, 133); stroke-width: 2px; filter: drop-shadow(rgb(186, 186, 186) 8px 5px 4px);"></rect>
+    <circle style="fill: rgb(255, 255, 255); stroke: rgb(0, 42, 133); stroke-width: 2px;" cx="36" cy="36" r="35"></circle>
+    <text style="fill: rgb(0, 42, 133); font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; white-space: pre;" x="85.002" y="43.294">Microsoft 365</text>
+    <g transform="matrix(0.078125, 0, 0, 0.078125, 14.833332, 15.33334)">
+      <path xmlns="http://www.w3.org/2000/svg" style="" d="M272,240h240V16c0-8.832-7.168-16-16-16H272V240z" fill="#4caf50" data-original="#4caf50"></path>
+      <path xmlns="http://www.w3.org/2000/svg" style="" d="M240,240V0H16C7.168,0,0,7.168,0,16v224H240z" fill="#f44336" data-original="#f44336" class=""></path>
+      <path xmlns="http://www.w3.org/2000/svg" style="" d="M240,272H0v224c0,8.832,7.168,16,16,16h224V272z" fill="#2196f3" data-original="#2196f3"></path>
+      <path xmlns="http://www.w3.org/2000/svg" style="" d="M272,272v240h224c8.832,0,16-7.168,16-16V272H272z" fill="#ffc107" data-original="#ffc107"></path>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+      <g xmlns="http://www.w3.org/2000/svg"></g>
+    </g>
+    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="38.7" y1="62.5" x2="38.7" y2="122.9034" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#DE4A01"></stop>
+      <stop offset="1" style="stop-color:#E15900"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="156.25" y1="118.6523" x2="156.25" y2="68.182" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#F08B09"></stop>
+      <stop offset="1" style="stop-color:#EB770A"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="149.4" y1="199.4" x2="149.4" y2="125" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#D73A00"></stop>
+      <stop offset="1" style="stop-color:#CD2901"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="31.25" y1="183.4025" x2="31.25" y2="128.5908" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#BE3106"></stop>
+      <stop offset="1" style="stop-color:#AD3007"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="151.45" y1="250" x2="151.45" y2="187.5" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#844980"></stop>
+      <stop offset="1" style="stop-color:#703F6C"></stop>
+    </linearGradient>
+    <linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="31.25" y1="249.9" x2="31.25" y2="187.4" gradientTransform="matrix(0.199998, 0, 0, 0.199998, 300.608124, -105.491264)">
+      <stop offset="0" style="stop-color:#6F3C6D"></stop>
+      <stop offset="1" style="stop-color:#663764"></stop>
+    </linearGradient>
+  </g>
+</svg>
