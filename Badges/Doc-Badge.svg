@@ -1,16 +1,14 @@
-<svg viewBox="0 0 366 84" width="354px" height="84px" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 380 84" width="380px" height="84px" xmlns="http://www.w3.org/2000/svg">
   <defs></defs>
-  <g>
-    <rect x="1.527" y="1" width="353.108" height="70" rx="34" style="fill: rgb(228, 246, 255); stroke: rgb(0, 42, 133); stroke-width: 2px; filter: drop-shadow(rgb(186, 186, 186) 8px 5px 4px);"></rect>
-    <circle style="fill: rgb(255, 255, 255); stroke: rgb(0, 42, 133); stroke-width: 2px;" cx="36" cy="36" r="35"></circle>
-    <text style="fill: rgb(0, 42, 133); font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; white-space: pre;" x="85.002" y="43.294">Document Management</text>
-    <g transform="matrix(0.095242, 0, 0, 0.095242, 11.900649, 10.462865)">
-      <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient" gradientUnits="userSpaceOnUse" x1="251.492" x2="251.492" y1="28.023" y2="493">
-        <stop offset="0" stop-color="#00dff0"></stop>
-        <stop offset="1" stop-color="#0077f0"></stop>
-      </linearGradient>
-      <path xmlns="http://www.w3.org/2000/svg" d="m437.975 122.358h-94.342v-94.335zm-222.575 199.542a67.4 67.4 0 1 1 67.4 67.4 67.48 67.48 0 0 1 -67.4-67.4zm19.484 0a12 12 0 0 0 12 12h23.916v23.92a12 12 0 0 0 24 0v-23.92h23.919a12 12 0 0 0 0-24h-23.919v-23.919a12 12 0 0 0 -24 0v23.919h-23.92a12 12 0 0 0 -12 12zm-130.276 124.5v-373.8h-39.6v420.4h328.384v-39.6h-281.784a7.008 7.008 0 0 1 -7-7z" fill="url(#linear-gradient)" data-original="url(#linear-gradient)" class=""></path>
-      <path xmlns="http://www.w3.org/2000/svg" d="m400.392 512a12 12 0 0 0 12-12v-41.6h41.6a12 12 0 0 0 12-12v-317.925a12 12 0 0 0 -3.515-8.486l-116.483-116.474a12 12 0 0 0 -8.485-3.515h-225.9a12 12 0 0 0 -12 12v41.6h-41.6a12 12 0 0 0 -12 12v434.4a12 12 0 0 0 12 12zm-51.759-471.907 77.27 77.265h-77.27zm-225.025-16.093h201.025v105.358a12 12 0 0 0 12 12h105.358v293.042h-318.383zm-53.6 53.6h29.6v368.8a12 12 0 0 0 12 12h276.784v29.6h-318.383zm86.235 9.719a12 12 0 0 1 12-12h137.737a12 12 0 0 1 0 24h-137.736a12 12 0 0 1 -12-12zm0 56.752a12 12 0 0 1 12-12h137.737a12 12 0 0 1 0 24h-137.736a12 12 0 0 1 -12-12zm253.111 56.753a12 12 0 0 1 -12 12h-229.11a12 12 0 1 1 0-24h229.111a12 12 0 0 1 12 12zm-126.554 34.676a86.4 86.4 0 1 0 86.4 86.4 86.5 86.5 0 0 0 -86.4-86.4zm0 148.807a62.4 62.4 0 1 1 62.4-62.4 62.474 62.474 0 0 1 -62.4 62.393z" fill="#063271" data-original="#005fea" class=""></path>
-    </g>
+  <rect x="1.527" y="1" width="364.473" height="70" rx="34" style="fill: rgb(228, 246, 255); stroke: rgb(0, 42, 133); stroke-width: 2px; filter: drop-shadow(rgb(186, 186, 186) 8px 5px 4px);"></rect>
+  <circle style="fill: rgb(255, 255, 255); stroke: rgb(0, 42, 133); stroke-width: 2px;" cx="36" cy="36" r="35"></circle>
+  <text style="fill: rgb(0, 42, 133); font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; white-space: pre;" x="85.002" y="43.294">Community Engagement</text>
+  <g transform="matrix(0.095242, 0, 0, 0.095242, 11.900649, 10.462865)">
+    <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient" gradientUnits="userSpaceOnUse" x1="251.492" x2="251.492" y1="28.023" y2="493">
+      <stop offset="0" stop-color="#00dff0"></stop>
+      <stop offset="1" stop-color="#0077f0"></stop>
+    </linearGradient>
+    <path xmlns="http://www.w3.org/2000/svg" d="m437.975 122.358h-94.342v-94.335zm-222.575 199.542a67.4 67.4 0 1 1 67.4 67.4 67.48 67.48 0 0 1 -67.4-67.4zm19.484 0a12 12 0 0 0 12 12h23.916v23.92a12 12 0 0 0 24 0v-23.92h23.919a12 12 0 0 0 0-24h-23.919v-23.919a12 12 0 0 0 -24 0v23.919h-23.92a12 12 0 0 0 -12 12zm-130.276 124.5v-373.8h-39.6v420.4h328.384v-39.6h-281.784a7.008 7.008 0 0 1 -7-7z" fill="url(#linear-gradient)" data-original="url(#linear-gradient)" class=""></path>
+    <path xmlns="http://www.w3.org/2000/svg" d="m400.392 512a12 12 0 0 0 12-12v-41.6h41.6a12 12 0 0 0 12-12v-317.925a12 12 0 0 0 -3.515-8.486l-116.483-116.474a12 12 0 0 0 -8.485-3.515h-225.9a12 12 0 0 0 -12 12v41.6h-41.6a12 12 0 0 0 -12 12v434.4a12 12 0 0 0 12 12zm-51.759-471.907 77.27 77.265h-77.27zm-225.025-16.093h201.025v105.358a12 12 0 0 0 12 12h105.358v293.042h-318.383zm-53.6 53.6h29.6v368.8a12 12 0 0 0 12 12h276.784v29.6h-318.383zm86.235 9.719a12 12 0 0 1 12-12h137.737a12 12 0 0 1 0 24h-137.736a12 12 0 0 1 -12-12zm0 56.752a12 12 0 0 1 12-12h137.737a12 12 0 0 1 0 24h-137.736a12 12 0 0 1 -12-12zm253.111 56.753a12 12 0 0 1 -12 12h-229.11a12 12 0 1 1 0-24h229.111a12 12 0 0 1 12 12zm-126.554 34.676a86.4 86.4 0 1 0 86.4 86.4 86.5 86.5 0 0 0 -86.4-86.4zm0 148.807a62.4 62.4 0 1 1 62.4-62.4 62.474 62.474 0 0 1 -62.4 62.393z" fill="#063271" data-original="#005fea" class=""></path>
   </g>
 </svg>
