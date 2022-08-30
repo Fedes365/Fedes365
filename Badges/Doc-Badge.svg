@@ -2,7 +2,7 @@
   <defs></defs>
   <rect x="1.527" y="1" width="364.473" height="70" rx="34" style="fill: rgb(228, 246, 255); stroke: rgb(0, 42, 133); stroke-width: 2px; filter: drop-shadow(rgb(186, 186, 186) 8px 5px 4px);"></rect>
   <circle style="fill: rgb(255, 255, 255); stroke: rgb(0, 42, 133); stroke-width: 2px;" cx="36" cy="36" r="35"></circle>
-  <text style="fill: rgb(0, 42, 133); font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; white-space: pre;" x="85.002" y="43.294">Community Engagement</text>
+  <text style="fill: rgb(0, 42, 133); font-family: Arial, sans-serif; font-size: 22px; font-weight: 700; white-space: pre;" x="85.002" y="43.294">Document Management</text>
   <g transform="matrix(0.095242, 0, 0, 0.095242, 11.900649, 10.462865)">
     <linearGradient xmlns="http://www.w3.org/2000/svg" id="linear-gradient" gradientUnits="userSpaceOnUse" x1="251.492" x2="251.492" y1="28.023" y2="493">
       <stop offset="0" stop-color="#00dff0"></stop>
