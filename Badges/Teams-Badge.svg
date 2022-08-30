@@ -1,4 +1,4 @@
-<svg viewBox="0 0 180 50" width="230px" height="50px" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 180 50" width="180px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <defs></defs>
   <g transform="matrix(0.6, 0, 0, 0.6, 0.4, 0.4)">
     <rect x="1.527" y="1" width="281.247" height="69.875" rx="34" style="fill: rgb(228, 246, 255); stroke: rgb(0, 42, 133); stroke-width: 2px; filter: drop-shadow(rgb(186, 186, 186) 8px 5px 4px);"></rect>
