@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/Header-Logo.svg" width="450px">
+<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/Header-Logo.svg" width="450px"></a>
 </p>
 <br>
 
