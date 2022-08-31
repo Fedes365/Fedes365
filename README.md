@@ -25,7 +25,7 @@
 
 # My latest projects:
 
-<img align="left" src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/List-Hub.jpg" width="450px"><br><br>
+<img align="left" src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/List-Hub.svg" width="450px"><br><br>
 
 ### With my 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝗟𝗶𝘀𝘁𝘀 𝗛𝘂𝗯, I tried to create a unique access point to Microsoft Lists JSON formatting.<br><br>Click or tap on the image to open the Hub.
 
