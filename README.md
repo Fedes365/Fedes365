@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/Header-Logo.svg" width="450px">
+</p>
+<br>
+
 # Who I am:
 
 <img align="right" src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/Astronaut-1.svg" width="250px"><br><br>
