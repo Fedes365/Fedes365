@@ -1,11 +1,29 @@
-## Hi there 👋
+# Who I am:
 
-I'm Federico and I help 𝗽𝗲𝗼𝗽𝗹𝗲 to carry out their projects and accompany them in their 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 paths, to work better and methodically, thanks to 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝟯𝟲𝟱 technologies and solutions.
-<p align="center">
-  <kbd><img valign="top" src="https://github.com/Fedes365/Fedes365/blob/main/Wall.jpg"  width="90%" height="90%"></kbd>
-</p>
-<p align="center">
-<a href="https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting" title="video text"><img src="https://github.com/Fedes365/Microsoft-Lists-Templates/blob/main/Lists-Banner.svg" width="40%" height="40%"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/federicosapia/" title="video text"><img src="https://github.com/Fedes365/Microsoft-Lists-Templates/blob/main/LinkedIn-Banner.svg" width="40%" height="40%"></a></p>
+<img align="right" src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/Astronaut-1.svg" width="250px"><br><br>
+
+### 🔹 𝗜 𝗮𝗺 𝗮 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗳𝗮𝗰𝗶𝗹𝗶𝘁𝗮𝘁𝗼𝗿 and I collaborate with people to carry out projects related to labour policies, helping them 𝘄𝗼𝗿𝗸 𝗯𝗲𝘁𝘁𝗲𝗿 𝗮𝗻𝗱 𝗶𝗻 𝗹𝗲𝘀𝘀 𝘁𝗶𝗺𝗲, thanks to the Microsoft 365 cloud applications.
+
+<br>
+
+# What I do:
+
+<img align="left" src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/Astronaut-2.svg" width="250px"><br><br>
+
+### 🚀 𝗜 𝗵𝗲𝗹𝗽 𝗽𝗲𝗼𝗽𝗹𝗲 to carry out their projects and support them in their 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝘁𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 paths, to work better and methodically, thanks to 𝗠𝗶𝗰𝗿𝗼𝘀𝗼𝗳𝘁 𝟯𝟲𝟱 technologies and solutions.
+
+<br>
+<br>
+<br>
+<br>
+
+# Tools and Topics:
+
+&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Doc-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Community-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Training-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Teams-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Lists-Badge.svg"></a><br><a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/365-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/English-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Customer-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Transformation-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Automate-Badge.svg"></a><br>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Technology-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/SharePoint-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Communication-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Automation-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Office-365-Badge.svg"></a>
+
+# My latest projects:
+
+<img align="left" src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/List-Hub.jpg" width="450px"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!--
 **Fedes365/Fedes365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
