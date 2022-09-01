@@ -11,6 +11,7 @@
 
 <br>
 <br>
+<br>
 
 # What I do:
 
@@ -27,6 +28,8 @@
 # Tools and Topics:
 
 &nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Doc-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Community-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Training-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Teams-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Lists-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/365-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/English-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Customer-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Transformation-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Automate-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Technology-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/SharePoint-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Communication-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Automation-Badge.svg"></a>&nbsp;&nbsp;<a href="https://about:blank"><img src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Badges/Office-365-Badge.svg"></a>
+
+<br>
 
 # My latest projects:
 
