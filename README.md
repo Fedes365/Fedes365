@@ -5,7 +5,7 @@
 
 # Who I am:
 
-<img align="right" src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/Astronaut-1.svg" width="250px"><br><br>
+<img align="right" src="https://raw.githubusercontent.com/Fedes365/Fedes365/main/Illustrations/Astronaut-1.svg" width="240px"><br><br>
 
 ### 🔹 𝗜 𝗮𝗺 𝗮 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗳𝗮𝗰𝗶𝗹𝗶𝘁𝗮𝘁𝗼𝗿 and I collaborate with people to carry out projects related to labour policies, helping them 𝘄𝗼𝗿𝗸 𝗯𝗲𝘁𝘁𝗲𝗿 𝗮𝗻𝗱 𝗶𝗻 𝗹𝗲𝘀𝘀 𝘁𝗶𝗺𝗲, thanks to the Microsoft 365 cloud applications.
 
